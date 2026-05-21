@@ -162,5 +162,5 @@ docs/
 
 ## Author
 
-Arun Kumar R  
+Arunkumar R  
 Dynamics 365 CRM & Power Platform Developer
